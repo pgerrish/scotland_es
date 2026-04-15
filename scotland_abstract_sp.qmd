@@ -18,19 +18,7 @@ author:
   - name: Rich Lenski
     affiliations:
       - Biología, MSU
-format:
-  pdf:
-    documentclass: article
-    classoption: [11pt]
-    geometry: margin=1in
-    fontsize: 11pt
-    linestretch: 1.2
-    header-includes:
-      - \usepackage{amsmath, amssymb}
-      - \usepackage{microtype}
-      - \usepackage{setspace}
-      - \usepackage{titlesec}
-      - \titleformat{\section}{\large\bfseries}{}{0em}{}
+format: html
 lang: es
 ---
 
