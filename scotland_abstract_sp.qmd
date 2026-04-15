@@ -1,0 +1,51 @@
+---
+title: "Una *síntesis moderna* para haploides"
+author:
+  - name: Philip Gerrish
+    affiliations:
+      - Biología, UNM
+      - Matemáticas, UAEH
+      - Mat/Biol, LANL
+  - name: Ramiro Domínguez
+    affiliations:
+      - Matemáticas/Física, UAEH
+  - name: Erika Rodríguez
+    affiliations:
+      - Mat/Biol, UAEH
+  - name: Benjamin Galeota-Sprung
+    affiliations:
+      - Biología, U. de Penn
+  - name: Rich Lenski
+    affiliations:
+      - Biología, MSU
+format:
+  pdf:
+    documentclass: article
+    classoption: [11pt]
+    geometry: margin=1in
+    fontsize: 11pt
+    linestretch: 1.2
+    header-includes:
+      - \usepackage{amsmath, amssymb}
+      - \usepackage{microtype}
+      - \usepackage{setspace}
+      - \usepackage{titlesec}
+      - \titleformat{\section}{\large\bfseries}{}{0em}{}
+lang: es
+---
+
+## 
+
+Darwin murió sin haber resuelto una diabólica salvedad a su teoría de la selección natural: las teorías de la herencia aceptadas por la comunidad científica de su época predecían una “mezcla” fenotípica que, en el transcurso de unas pocas generaciones, agotaría la variación requerida por su teoría. Darwin era dolorosamente consciente de esta salvedad.
+
+En ese tiempo, lejos de la Inglaterra natal de Darwin, un monje austríaco (Mendel) realizaba experimentos meticulosos con guisantes que, en última instancia, resolverían la incompatibilidad entre los mecanismos de herencia y la teoría de Darwin. De manera conmovedora, Darwin y Mendel coincidieron en una conferencia en Alemania, pero Darwin no asistió a la charla de Mendel y viceversa.
+
+No fue sino hasta mucho más tarde, en lo que se conoce como la “síntesis moderna”, que se comprendió finalmente que la teoría de Darwin fue rescatada por Mendel. La herencia mendeliana mantiene una especie de *reservorio* de la variación requerida por la teoría de Darwin.
+
+**¡PERO!** Solo funciona para diploides.
+
+Entonces, ¿por qué existen los haploides? ¿Cómo mantienen un reservorio de la variación requerida por la teoría de Darwin? ¿Variación críptica? ¿Variación fenotípica (individual)? ¿Mutación? ¿Recombinación? ¿O quizá un popurrí de muchos de estos factores y más?
+
+Es notable observar que, hasta el día de hoy, la teoría de Darwin aún no ha sido reconciliada con la haploidía de manera general. Parece haber una considerable superposición entre estas preguntas y aquellas abordadas en este taller.
+
+Mi charla abordará esta intersección como una contribución al objetivo general de desarrollar una “síntesis moderna” para haploides.
